@@ -6,7 +6,8 @@
 	"author": "naomsa <djbrucelee@protonmail.com>",
 	"license": "MIT",
 	"scripts": {
-		"dev": "tsnd --respawn --transpile-only ."
+		"dev": "tsnd --respawn --transpile-only .",
+		"start": "tsnd --respawn --transpile-only ."
 	},
 	"dependencies": {
 		"cors": "^2.8.5",
