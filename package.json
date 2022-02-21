@@ -7,7 +7,7 @@
 	"license": "MIT",
 	"scripts": {
 		"dev": "tsnd --respawn --transpile-only .",
-		"start": "tsnd --respawn --transpile-only ."
+		"start": "ts-node index.ts"
 	},
 	"dependencies": {
 		"cors": "^2.8.5",
